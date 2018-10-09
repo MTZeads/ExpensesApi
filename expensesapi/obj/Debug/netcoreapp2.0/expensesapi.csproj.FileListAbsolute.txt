@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\expensesapi\expensesapi\bin\Debug\netcoreapp2.0\expensesapi.deps.json
+C:\Users\sebas\source\repos\expensesapi\expensesapi\bin\Debug\netcoreapp2.0\expensesapi.runtimeconfig.json
+C:\Users\sebas\source\repos\expensesapi\expensesapi\bin\Debug\netcoreapp2.0\expensesapi.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\expensesapi\expensesapi\bin\Debug\netcoreapp2.0\expensesapi.dll
+C:\Users\sebas\source\repos\expensesapi\expensesapi\bin\Debug\netcoreapp2.0\expensesapi.pdb
+C:\Users\sebas\source\repos\expensesapi\expensesapi\obj\Debug\netcoreapp2.0\expensesapi.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\expensesapi\expensesapi\obj\Debug\netcoreapp2.0\expensesapi.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\expensesapi\expensesapi\obj\Debug\netcoreapp2.0\expensesapi.AssemblyInfo.cs
+C:\Users\sebas\source\repos\expensesapi\expensesapi\obj\Debug\netcoreapp2.0\expensesapi.dll
+C:\Users\sebas\source\repos\expensesapi\expensesapi\obj\Debug\netcoreapp2.0\expensesapi.pdb
